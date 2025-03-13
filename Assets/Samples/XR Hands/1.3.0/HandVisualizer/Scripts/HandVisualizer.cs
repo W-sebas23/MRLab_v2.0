@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace UnityEngine.XR.Hands.Samples.VisualizerSample
 {
-    /// <summary> hola prueba
+    /// <summary> comentario en rama nueva api
     /// This component visualizes the hand joints and mesh for the left and right hands.
     /// </summary>
     public class HandVisualizer : MonoBehaviour
